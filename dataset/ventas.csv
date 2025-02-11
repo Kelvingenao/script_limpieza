@@ -1,0 +1,51 @@
+ID,Producto,Categoría,Cantidad,Precio Unitario,Método de Pago,Fecha
+1.0,Teléfono,Electrónica,10.0,75.24,PayPal,2024-01-15
+2.0,Cámara,Accesorios,1.0,447.21,PayPal,2024-02-05
+3.0,Monitor,Electrónica,10.0,257.54,PayPal,2024-01-15
+4.0,Laptop,Accesorios,8.0,436.43,Tarjeta de Crédito,2024-02-10
+5.0,Auriculares,Oficina,7.0,838.59,Efectivo,2024-01-15
+6.0,Smartwatch,Accesorios,8.0,877.34,PayPal,2024-02-05
+7.0,Teclado,Electrónica,9.0,994.64,Efectivo,2024-01-15
+8.0,Impresora,Oficina,8.0,553.39,PayPal,2024-01-15
+9.0,Teléfono,Oficina,4.0,47.65,Transferencia Bancaria,2024-02-05
+10.0,Monitor,Oficina,4.0,886.27,Transferencia Bancaria,2024-02-05
+11.0,Laptop,Oficina,5.0,898.57,PayPal,2024-01-15
+12.0,Monitor,Accesorios,5.0,264.96,PayPal,2024-02-10
+13.0,Teclado,Oficina,8.0,757.04,PayPal,2024-01-15
+14.0,Tablet,Electrónica,6.0,119.38,Tarjeta de Crédito,2024-01-15
+15.0,Smartwatch,Accesorios,1.0,173.19,Tarjeta de Crédito,2024-02-05
+16.0,Tablet,Accesorios,6.0,457.21,Tarjeta de Crédito,2024-02-05
+17.0,Laptop,Accesorios,10.0,421.75,Efectivo,2024-02-10
+18.0,Auriculares,Oficina,8.0,391.01,Tarjeta de Crédito,2024-01-15
+19.0,Teléfono,Oficina,7.0,215.84,PayPal,2024-01-15
+20.0,Teclado,Electrónica,4.0,257.73,Efectivo,2024-01-15
+21.0,Mouse,Oficina,5.0,137.73,Tarjeta de Crédito,2024-01-15
+22.0,Tablet,Accesorios,8.0,945.41,Tarjeta de Crédito,2024-01-15
+23.0,Cámara,Accesorios,6.0,691.85,Tarjeta de Crédito,2024-02-10
+24.0,Mouse,Oficina,8.0,309.54,Efectivo,2024-01-15
+25.0,Tablet,Electrónica,8.0,743.56,Efectivo,2024-02-05
+26.0,Teclado,Oficina,7.0,562.25,Transferencia Bancaria,2024-01-15
+27.0,Cámara,Accesorios,5.0,666.3,PayPal,2024-02-05
+28.0,Laptop,Accesorios,6.0,585.2,Efectivo,2024-01-15
+29.0,Smartwatch,Accesorios,7.0,709.79,Tarjeta de Crédito,2024-02-10
+30.0,Impresora,Accesorios,10.0,703.62,Tarjeta de Crédito,2024-01-15
+31.0,Tablet,Oficina,1.0,514.15,PayPal,2024-01-15
+32.0,Mouse,Accesorios,7.0,103.09,Transferencia Bancaria,2024-02-05
+33.0,Smartwatch,Oficina,7.0,345.38,Transferencia Bancaria,2024-02-10
+34.0,Impresora,Oficina,2.0,696.16,Tarjeta de Crédito,2024-01-15
+35.0,Impresora,Electrónica,7.0,275.31,Transferencia Bancaria,2024-02-05
+36.0,Teclado,Oficina,7.0,375.02,PayPal,2024-02-05
+37.0,Smartwatch,Accesorios,7.0,138.44,Tarjeta de Crédito,2024-02-10
+38.0,Teclado,Oficina,6.0,341.74,Tarjeta de Crédito,2024-01-15
+39.0,Teclado,Electrónica,1.0,155.53,Efectivo,2024-02-05
+40.0,Smartwatch,Oficina,5.0,64.07,PayPal,2024-01-15
+25.0,Tablet,Electrónica,8.0,743.56,Efectivo,2024-02-05
+18.0,Auriculares,Oficina,8.0,391.01,Tarjeta de Crédito,2024-01-15
+32.0,Mouse,Accesorios,7.0,103.09,Transferencia Bancaria,2024-02-05
+39.0,Teclado,Electrónica,1.0,155.53,Efectivo,2024-02-05
+26.0,Teclado,Oficina,7.0,562.25,Transferencia Bancaria,2024-01-15
+,Smartwatch,Accesorios,3.0,194.81,Efectivo,2024-02-05
+,Tablet,Electrónica,8.0,341.18,PayPal,2024-02-10
+,Auriculares,Electrónica,6.0,408.04,Tarjeta de Crédito,2024-02-10
+,,Electrónica,,,Efectivo,2024-02-10
+,Teclado,Accesorios,1.0,996.93,Efectivo,2024-02-05
